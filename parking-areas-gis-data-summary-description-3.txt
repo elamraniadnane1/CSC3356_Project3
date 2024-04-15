@@ -1,0 +1,36 @@
+Summary Metadata
+
+Name: ParkingAreas
+Title: Parking Areas
+Source File: rpkarea
+Keywords: Parking, Parking Lot, Transportation, Infrastructure
+Date Last Modified: 07/22/2016
+Published Date: 20160722
+Access: Public
+Summary: This map data layer represents the parking lot areas for the City of Bloomington. It includes paved parking areas, gravel parking areas, and non-parking island features created from surrounding parking areas, roadway pavement, or building features.
+Use: As part of the basemap data layers, the parking areas map layer is an integral part of the City of Bloomington Geographic Information System (GIS). Base map data layers are accessed for basic applications such as viewing, querying, and map output production. It is used in impervious surface calculations for the City of Bloomington storm water utility.
+Supplemental Information:  Native format GenaMap GIS Vector (4)
+Coordinate Reference System: NAD83 Indiana State Plane West Zone 1302 US Survey Feet
+EPSG: 2966
+Extent: Bloomington GIS Mapped Area
+Bounding Coordinates: 3078000.000000 1392000.000000 3162000.000000 1470000.000000
+Source: Created from orthophotography flown in 1991-92, 1998, 2005, 2006, 2010, 2011, 2014.  Updates from plat or development plans between orthophotography projects.
+   This data set as been processed from part of the source data and/or combinations of multiple source data sets to fit the data theme.
+Quality Rating: Good
+Complete: Complete
+Accuracy: Data sourced from 2006 and earlier meet created using photogrammetric techniques and meet National Map Accuracy Standards for +/-2.5 US feet.  Later features digitized using best available orthos.
+Status: Current
+Maintenance: Maintained by ITS and CBU GIS Staff as needed following new construction.
+Attributes:
+   ID KEY      TYPE DESCRIPTION
+   1  TAG      CHAR 
+
+FeatureType(Number): area (3606)
+URL: http://bloomington.in.gov/maps
+Contact: GIS Manager
+   email: gis @bloomington.in.gov
+   phone: 812-349-3454 (helpdesk)
+   address: City of Bloomington ITS Department
+         401 N Morton Street
+         PO Box 100
+         Bloomington, IN  47402-0100
